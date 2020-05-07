@@ -8,5 +8,5 @@
 # ignore folder with all files with "/" after folder
 #text/
 
-# ignore folder with only .txt files with "/" after folder, all other files will not be ignored#
+# ignore folder with only .txt files with "/" after folder, all other files will still be added to the repo
 text/*.txt
